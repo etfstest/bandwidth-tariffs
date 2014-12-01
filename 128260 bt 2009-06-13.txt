@@ -1,0 +1,2461 @@
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Transmittal No. 1 
+ Original Title Sheet 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEDERAL COMMUNICATIONS COMMISSION 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+OF 
+ 
+Bandwidth.com CLEC, LLC 
+ 
+ 
+ 
+This tariff contains the descriptions, regulations and rates applicable to the furnishing of competitive interstate switched exchange access service provided by Bandwidth.com CLEC, LLC ("the Company"). This tariff is on file with the Federal Communications Commission. Copies may be inspected during normal business hours at the Company's principal place of business at 4001 Weston Parkway, Cary, North Carolina 27513. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Second Revised Check Sheet 
+ Cancels First Revised Check Sheet 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+CHECK SHEET 
+ 
+Sheets of this tariff are effective as of the date shown at the bottom of the respective sheet(s). Original and revised sheets as named below comprise all changes from the original tariff and are currently in effect as of the date on the bottom of this sheet. 
+ 
+SHEET 
+ REVISION 
+  
+ SHEET 
+ REVISION 
+  
+ 
+Title 
+ Original 
+  
+ 24 
+ Original 
+  
+ 
+Check 
+ 2nd Revised 
+ * 
+ 25 
+ Original 
+  
+ 
+1 
+ Original 
+  
+ 26 
+ 1st Revised 
+  
+ 
+2 
+ Original 
+  
+ 27 
+ Original 
+  
+ 
+3 
+ Original 
+  
+ 28 
+ Original 
+  
+ 
+4 
+ 1st Revised 
+  
+ 29 
+ Original 
+  
+ 
+4.1 
+ Original 
+  
+ 30 
+ Original 
+  
+ 
+5 
+ 1st Revised 
+  
+ 31 
+ Original 
+  
+ 
+5.1 
+ Original 
+  
+ 32 
+ Original 
+  
+ 
+5.2 
+ Original 
+  
+ 33 
+ 1st Revised 
+  
+ 
+6 
+ Original 
+  
+ 33.1 
+ Original 
+  
+ 
+7 
+ Original 
+  
+ 34 
+ 1st Revised 
+  
+ 
+8 
+ Original 
+  
+ 35 
+ 1st Revised 
+  
+ 
+9 
+ Original 
+  
+ 36 
+ 1st Revised 
+  
+ 
+10 
+ 1st Revised 
+  
+ 37 
+ 1st Revised 
+  
+ 
+11 
+ 1st Revised 
+  
+ 38 
+ 1st Revised 
+  
+ 
+12 
+ Original 
+  
+ 39 
+ 2nd Revised 
+ * 
+ 
+13 
+ Original 
+  
+ 40 
+ 2nd Revised 
+ * 
+ 
+14 
+ Original 
+  
+ 40.1 
+ 1st Revised 
+ * 
+ 
+15 
+ Original 
+  
+ 40.2 
+ 1st Revised 
+ * 
+ 
+16 
+ Original 
+  
+ 40.3 
+ Original 
+  
+ 
+17 
+ Original 
+  
+ 40.4 
+ Original 
+  
+ 
+18 
+ Original 
+  
+ 40.5 
+ Original 
+  
+ 
+19 
+ Original 
+  
+ 40.6 
+ Original 
+  
+ 
+20 
+ Original 
+  
+ 41 
+ Original 
+  
+ 
+21 
+ Original 
+  
+ 42 
+ Original 
+  
+ 
+22 
+ Original 
+  
+ 43 
+ Original 
+  
+ 
+23 
+ Original 
+  
+ 44 
+ Original 
+  
+ 
+24 
+ Original 
+  
+ 45 
+ Original 
+  
+ 
+25 
+ Original 
+  
+ 46 
+ Original 
+  
+ 
+ 
+  
+  
+ 47 
+ Original 
+  
+ 
+
+ 
+* - indicates those pages included with this filing
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 1 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+TABLE OF CONTENTS 
+ 
+CHECK SHEET  
+ 1 
+ 
+ 
+  
+ 
+TABLE OF CONTENTS  
+ 1 
+ 
+ 
+  
+ 
+ISSUING CARRIER  
+ 2 
+ 
+ 
+  
+ 
+CONCURRING CARRIERS  
+ 2 
+ 
+ 
+  
+ 
+EXPLANATION OF SYMBOLS AND ABBREVIATIONS  
+ 3 
+ 
+ 
+  
+ 
+SECTION I- DEFINITIONS  
+ 4 
+ 
+ 
+  
+ 
+SECTION 2- RULES AND REGULATIONS  
+ 6 
+ 
+ 
+  
+ 
+SECTION 3- ORDERING OPTIONS FOR ACCESS SERVICE  
+ 32 
+ 
+ 
+  
+ 
+SECTION 4- SWITCHED ACCESS SERVICE  
+ 34 
+ 
+ 
+  
+ 
+SECTION 5- SWITCHED ACCESS RATES  
+ 36 
+ 
+ 
+  
+ 
+SECTION 6- END USER ACCESS SERVICE  
+ 41 
+ 
+ 
+  
+ 
+SECTION 7 - LOCAL AND OEAS TRAFFIC EXCHANGE AND TERMINATION  
+ 46 
+ 
+ 
+  
+ 
+SECTION 8 - CONTRACTS AND INDIVIDUAL CASE BASIS ARRANGEMENTS  
+ 47 
+ 
+
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 2 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+ISSUING CARRIER 
+Bandwidth.com CLEC, LLC 
+ 
+ 
+OTHER CARRIERS 
+NONE 
+ 
+ 
+CONCURRING CARRIERS 
+NONE 
+ 
+ 
+CONNECTING CARRIERS 
+NONE 
+ 
+ 
+OTHER PARTICIPATING CARRIERS 
+NONE 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 3 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+EXPLANATION OF SYMBOLS AND ABBREVIATIONS 
+ 
+The following are the only symbols used for the purposes indicated below: 
+ 
+C 
+  -  
+ Changed regulation. 
+ 
+ 
+  
+  
+ 
+D 
+  -  
+ Discontinued or Deleted. 
+ 
+ 
+  
+  
+ 
+I 
+  -  
+ Change resulting in an increase to a customer's bill. 
+ 
+ 
+  
+  
+ 
+M 
+  -  
+ Moved from another tariff location. 
+ 
+ 
+  
+  
+ 
+N 
+  -  
+ New. 
+ 
+ 
+  
+  
+ 
+R 
+  -  
+ Change resulting in a reduction to a customer's bill. 
+ 
+ 
+  
+  
+ 
+S 
+  -  
+ Reissued Material. 
+ 
+ 
+  
+  
+ 
+T 
+  -  
+ Change in text but no change in rate or regulation. 
+ 
+ 
+  
+  
+ 
+Z 
+  -  
+ Correction. 
+ 
+
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 4 
+ Cancels Original Sheet 4 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 1 - DEFINITIONS 
+ 
+Certain terms used generally throughout this tariff for the Access Services of this Company are defined below. 
+ 
+8YY Data Base Access Service - The term "8YY Data Base Access Service" denotes a toll-free originating Trunk-side Access Service when the 8YY Service Access Code (i.e., 800, 822, 833, 844, 855, 866, 877, or 888 as available) is used. 
+ 
+Access Service - Access to the network of an Interexchange Carrier for the purpose of originating or termination communications. 
+ 
+Access Service Request (ASR) or Service Order: The industry service order format used by Access Service Customers and access providers as agreed to by the Ordering and Billing Forum. 
+ 
+ANI - Automatic Number Identification; the codes transmitted between carriers that indicate the telephone number of the originating line. 
+ 
+Authorized user - A person, firm, corporation or other entity that either is authorized by the Customer to use Access Services or is placed in a position by the Customer, either through acts or omissions, to use Access Service. 
+ 
+B8ZS - Bipolar with 8-Zero Substitution - a line coding technique which permits DSO and DS1 transmission with 15 consecutive zeros. B8ZS support 64 KBPS clear channel transmission. 
+ 
+BNA - Billing Name and Address; the customer of record and billing address associated with an originating ANI. 
+ 
+Carrier or Common Carrier - See Interexchange Carrier of Exchange Carrier. 
+ 
+CCS/SS7 - Common Channel Switching/Signaling System 7; a switching network and transmission control standard. 
+ 
+Channel - A communications path between two or more points. 
+ 
+Commission - The Federal Communications Commission. 
+ 
+Company - Bandwidth.com CLEC, LLC, issuer of this tariff. 
+ 
+Certain material previously found on this Sheet is now located on Sheet 4.1. 
+ (N) | 
+(N) 
+ 
+(N) (N)  (N) (N)     (N) | (N) 
+(N) 
+(N) 
+(N) 
+(M) | (M) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 4.1 
+  
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 1 - DEFINITIONS, (Cont’d.) 
+ 
+Customer - The person, firm, corporation or other entity that orders Service and is responsible for the payment of charges and for compliance with the Company’s tariff regulations. The Customer could be an interexchange carrier, a wireless provider, or any other carrier authorized to operate. 
+ 
+DNAL - Dedicated Network Access Line; a point to point circuit that provides interconnection to the CCS network on a dedicated Signal Transfer Point (STP) port. The DNAL provides the connection from the Customer designated premises to the Company STP. 
+ 
+DS0 - Digital Signal Level 0; a dedicated full duplex digital channel with line speeds of 2.4, 4.8, 9.36, 19.2, 56 or 64 Kbps. 
+  
+DS1 - Digital Signal Level 1; a dedicated, high capacity, full duplex channel with a line speed of 1.544 Mbps isochronous serial data having a line signal format of either Alternate Mark Inversion (AMI) or Bipolar with 8 Zero Substitution (B8ZS) and either Superframe (D4) or Extended Superframe (ESF) formats. DS1 Service has the equivalent capacity of 24 Voice Grade or DSO services.  
+ 
+DS3- Digital Signal Level 3; a dedicated, high capacity, full duplex channel with a line speed of 44.736 Mbps isochronous serial data having a line code of bipolar with three zero substitution (B3ZS). Equivalent capacity of 28 DS 1 Services. 
+ 
+End User - Any individual, association, corporation, governmental agency or any other entity subscribing to intrastate service provided by an Exchange Carrier where such individual association, corporation, governmental agency or other entity is not an Interexchange Carrier, Local Exchange Carrier, Wireless Carrier or other entity otherwise utilizing the Company’s service to provide a telecommunications service (as defined by applicable law) to its own customers. 
+ 
+Exchange - A group of lines in a unit generally smaller than a LATA established in the tariff of an incumbent local exchange carrier for the administration of communications service in a specified area. 
+ 
+Exchange Carrier - Any individual, partnership, association, joint-stock company, trust, governmental entity or corporation engaged in the provision of local exchange telephone service. 
+ 
+Facility (or Facilities) - Any item or items of communications plant or equipment used to provide service or connect to the Company. 
+ 
+FGD - Feature Group D; a trunk side switched access connection to the public switched network. 
+ 
+FOC - Final Order Confirmation; the point prior to the start of installation when the order is confirmed. 
+ 
+Certain material now found on this page was previously located on Page 4.(N) | (N) 
+(M) | (M)  
+(N) (N) 
+ (M) | | (M)  (M) | (M) 
+ 
+(N) | | | (N) 
+(N) (N) 
+(N) (N) 
+ 
+(N) (N) 
+(M) 
+(M) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 5 
+ Cancels Original Sheet 5 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 1 – DEFINITIONS, (Cont’d.) 
+ 
+Gbps - Gigabits per second; billions of bits per second. 
+ 
+GTA - Global Title Address; software instructions in the Signal Transfer Point (STP) that identify the signaling message destination. 
+ 
+ICB - Individual Case Basis; standard tariff pricing is not available. Each installation is individually priced and negotiated with the customer. 
+ 
+Interexchange Carrier (IXC) or Interexchange Common Carrier - Any individual, partnership, association, joint-stock company, trust, governmental entity or corporation engaged in state or foreign communication for hire by wire or radio, between two or more exchanges. 
+ 
+Kbps - Kilobits per second; 1000s of bits per second. 
+ 
+LATA – A local access and transport area established pursuant to the Modification of Final Judgment entered by the United States District Court for the District of Columbia in Civil Action No. 82-0192 for the provision and administration of communications services. 
+ 
+LEC - Local Exchange Company 
+ 
+Line Information Data Base (LIDB) - The data base which contains base information such as telephone numbers, calling card numbers and associated billed number restriction data used in connection with the validation and billing of calls. 
+ 
+Local Switching Center - The switching center where telephone exchange service Customer station Channels are terminated for purposes of interconnection to each other and to interoffice Trunks. 
+ 
+Local Traffic - Traffic is "Local Traffic" under this tariff if (i) the call originates and terminates in the same exchange area; or (ii) the call originates and terminates within different exchanges that share a common mandatory local calling area. 
+ 
+Mbps - Megabits per second; millions of bits per second. 
+ 
+Meet Point - A point of interconnection that is not an end office or tandem. 
+ 
+Meet Point Billing - The arrangement through which multiple Exchange Carriers involved in providing Access Service bill services on a proportional basis under their respective tariffs. 
+ 
+Certain material now found on this page was previously located on Page 4 
+Certain material previously found on this page is now located on Page 5.1. (M) 
+(M) 
+(M) 
+(N) | (N) 
+(T) | (T) 
+ 
+ 
+ 
+(N) | (N)  (N) (N)  (N) | (N)  
+ 
+ 
+(N) 
+ 
+(N) (N) 
+ 
+(M) | (M) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 5.1 
+  
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 1 – DEFINITIONS, (Cont’d.) 
+ 
+Non-Recurring Charges - One-time initial charges for services or facilities, including but not limited to charges for construction, installation, or special fees, for which the Customer becomes liable at the time service is ordered. 
+ 
+Premises - The space occupied by a Customer or Authorized User in a building or buildings or on contiguous property (except railroad rights-of-way, etc.). 
+ 
+OPC - Originating Point Code; a field within a signaling message that identifies the originating network Signaling Node. 
+ 
+POP - The physical location of an interexchange carrier's facilities. 
+ 
+Presubscription - An arrangement whereby an End User or other user of the Company’s services may select and designate to the Company an Interexchange Carrier (IXC) or Carriers it wishes to access, without an Access Code, for completing both intraLATA toll calls and/or interLATA calls. The selected IXC(s) are referred to as the End User’s or user’s Primary Interexchange Carrier (PIC).  
+ 
+Query - An inquiry to a database to obtain information, processing instructions or service data. 
+ 
+Recurring Charges - The monthly charges to the Customer for services, facilities and equipment, which continue for the agreed upon duration of the service. 
+ 
+Signaling Point of Interface - The Customer designated location where the SS7 signaling information is exchanged between the Company and the Customer. 
+ 
+SSP - Service Switching Point; an end office or tandem switch equipped with signaling link hardware and software to perform Signal Point functions. SSPs participate in processing a CCS/SS7 call by requesting and responding to call processing instructions issued by the SCP. 
+ 
+Station - Refers to telephone equipment or an exchange access line from or to which calls are placed. 
+ 
+STP - Signal Transfer Point; a specialized packet switch that routes and translates signaling messages in the CCS network. 
+ 
+Terminal Equipment - Telecommunications devices, apparatus and associated wiring on the Customer- designated premises. 
+ 
+Certain material now found on this page was previously located on Page 5. (N) | (N) 
+(N) (N) 
+(M) (M) 
+(M) 
+(N) | | (N) 
+(N) 
+(N) (N) 
+(N) 
+(N) 
+(M) | (M) 
+(N) 
+(M) (M) 
+(N) 
+(N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 5.2 
+  
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 1 – DEFINITIONS, (Cont’d.) 
+ 
+Trunk - A communications path connecting two switching systems in a network, used in the establishment of an end-to-end connection. 
+ 
+Wireless Provider - Any carrier authorized to operate as a provider of cellular, personal communications, paging or other form of wireless transmission. (N) 
+(N) 
+ 
+(N) 
+(N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 6 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS 
+ 
+2.1 Undertaking of the Company 
+ 
+2.1.1 Scope 
+ 
+The Company's services offered pursuant to this Tariff are furnished for Switched Access Service. The Company may offer these services over its own or resold facilities. 
+ 
+The Company installs, operates, and maintains the communications services provided herein in accordance with the terms and conditions set forth under this Tariff. The Company may act as the Customer's agent for ordering access connection facilities provided by other carriers or entities as required in the Commission's rules and orders, when authorized by the Customer, to allow connection of a Customer's location to the Company's network. The Customer shall be responsible for all charges due for such service agreement. 
+ 
+The Company's services and facilities are provided on a monthly basis unless otherwise indicated, and are available twenty-four hours per day, seven days per week. 
+ 
+2.1.2 Shortage of Equipment or Facilities 
+ 
+A. The Company reserves the right to limit or to allocate the use of existing facilities, or of additional facilities offered by the Company when necessary because of lack of facilities or due to some other cause beyond the Company's control. 
+ 
+B. The furnishing of service under this tariff is subject to the availability on a continuing basis of all the necessary facilities and is limited to the capacity of the Company's facilities as well as facilities the company may obtain from other Carriers from time to time, to furnish service as required at the sole discretion of the Company. 
+ 
+C. The provisioning and restoration of service in emergencies shall be in accordance with Part 64, Subpart D, Appendix A of the Federal Communications Commission's Rules and Regulations, which specifies the priority system for such activities. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 7 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.3 Terms and Conditions 
+ 
+A. Except as otherwise provided herein, service is provided and billed on the basis of a minimum period of at least one month, and shall continue to be provided until canceled by the Customer, in writing, on not less than 30 days notice. Unless otherwise specified herein, for the purpose of computing charges in this tariff, a month is considered to have 30 days. 
+ 
+B. Customers seeking to cancel service have an affirmative obligation to block traffic originating from or terminating to the Company's network. By originating traffic from or originating traffic to the Company's network, the Customer will have constructively ordered the Company's switched access service. 
+ 
+C. The Customer agrees to operate Company-provided equipment in accordance with instructions of the Company or the Company's agent. Failure to do so will void Company liability for interruption of service and may make the Customer responsible for damage to equipment pursuant to section 2.1.3 . D below. 
+ 
+D. The Customer agrees to return to the Company all Company-provided equipment delivered to Customer within five (5) days of termination of the service in connection with which the equipment was used. Said equipment shall be in the same condition as when delivered to Customer, normal wear and tear only excepted. Customer shall reimburse the Company, upon demand, for any costs incurred by the Company due to Customer's failure to comply with this provision. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 8 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.4 Liability of the Company 
+ 
+A. The liability of the Company for damages arising out of the furnishing of its Services, including but not limited to mistakes, omissions, interruptions, delays, errors, other defects, or representations by the Company, or use of these services or damages arising out of the failure to furnish the service whether caused by act or omission, shall be limited to the extension of allowances for interruption as set forth in 2.6 below. The extension of such allowances for interruption shall be the sole remedy of the Customer and the sole liability of the Company. The Company will not be liable for any direct, indirect, incidental, special, consequential, exemplary or punitive damages to Customer as a result of any Company service, equipment or facilities, or the acts or omissions or negligence of the Company's employees or agents. 
+ 
+B. With respect to any other claim or suit, by a Customer or by any others, for damages associated with the ordering (including the reservation of any specific number for use with a service), installation (including delays thereof), provision, termination, maintenance, repair interruption or restoration of any service or facilities offered under this tariff the Company's liability, if any, shall be limited as provided herein. 
+ 
+C. The Company shall not be liable for any delay or failure of performance or equipment due to causes beyond its control, including but not limited to: acts of God, fire, flood, explosion or other catastrophes; any law, order, regulation, direction action, or request of The United States government or of any other government, including state and local governments having or claiming jurisdiction over the Company, or of any department, agency, commission, bureau, corporation, or other instrumentality of any one or more of these federal, state, or local governments, or of any military authority; preemption of existing service in compliance with national emergencies; insurrections; riots; wars; unavailability of rights-of-way or materials; or strikes, lockouts work stoppages, or other labor difficulties. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 9 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.4 Liability of the Company (Cont'd) 
+ 
+D. The Company shall not be liable for (a) any act or omission of any entity furnishing the Company or the Company's Customers facilities or equipment used for the interconnection with Access Services; or (b) for the acts or omissions of other Common Carriers. 
+ 
+E. The Company shall not be liable for any damages or losses due to the fault or negligence of the Customer or due to the failure or malfunction of Customer-provided equipment or facilities. 
+ 
+F. The Customer shall indemnify and hold the Company harmless from any and all loss, claims, demands, suits, or other actions, or any liability whatsoever, whether suffered, made, instituted, or asserted by any other party or person(s), and for any loss, damage, or destruction of any property, whether owned by the Customer or others, caused or claimed to have been caused directly or indirectly by the installation, operation, failure to operate, maintenance, removal, condition, location, or use of any installation or equipment provided by the Company. The Company reserves the right to require each Customer to sign an agreement acknowledging acceptance of the provisions of this Section 2.1.4.F as a condition precedent to such installations. 
+ 
+G. The Company shall not be liable for any defacement of or damage to Customer's Premises resulting from the furnishing of services or equipment on such Premises or the installation or removal thereof unless such defacement or damage is caused by the gross negligence or willful misconduct of the Company's agents or employees. No agents or employees of other participating Carriers shall be deemed to be agents or employees' of the Company. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 10 
+ Cancels Original Sheet 10 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.4 Liability of the Company (Cont'd) 
+ 
+H. Notwithstanding the Customer's obligations as set forth in Section 2.3 below, the Company shall be indemnified, defended and held harmless by the Customer, or by others authorized by it to use the service, against any claim, loss or damage arising from Customer's use of services furnished under this tariff, including: claims for libel, slander, invasion of privacy or infringement of copyright arising from the material, data, information, or other content transmitted via the Company's service; and patent infringement claims arising from combining or connecting the service offered by the Company with apparatus and systems of the Customer or others; all other claims arising out of any act or omission of the Customer or others, in connection with any service provided by the Company pursuant to this tariff 
+ 
+I. The Company shall be indemnified and held harmless by the End User or other user of services hereunder against any claim, loss or damage arising from the End User's or such other user’s use of services furnished under this tariff including: claims for libel, slander, invasion of privacy or infringement of copyright arising from the End User's or such other user’s own communications; patent infringement claims arising from the End User's or such other user’s combining or connecting the service offered by the Company with facilities or equipment furnished by the End User of another Interexchange Carrier; or all other claims arising out of any act or omission of the End User or such other user in connection with any service provided pursuant to this tariff. 
+ 
+J. The entire liability of the Company for any claim, loss, damage or expense from any cause whatsoever shall in no event exceed sums actually paid to the Company by the Customer for the specific services giving rise to the claim, and no action or proceeding against the Company shall be commenced more than one year after the service is rendered. 
+ 
+K. The Company makes no warranties or representation, express or implied, including warranties or merchantability or fitness for a particular use, except those expressly set forth herein. 
+ 
+ (T) | (T) 
+ 
+(T) (T) 
+ 
+ 
+(T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 11 
+ Cancels Original Sheet 11 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.4 Liability of the Company (Cont'd) 
+ 
+L. The Company shall not be liable for any act or omission of any other company or companies furnishing a portion of the service, or for damages associated with service, Channels, or equipment which result from the operation of Customer-provided systems, equipment, facilities or service which are interconnected with Company services. 
+ 
+M. The Company does not guarantee nor make any warranty with respect to service installations at locations at which there is present an atmosphere that is explosive, prone to fire, dangerous or otherwise unsuitable for such installations. The Customer and End User or other user of the Company’s services shall indemnify and hold the Company harmless from any and all loss, claims, demands, suits or other actions, or any liability whatsoever, whether suffered, made, instituted or asserted by the Customer or by any other party, for any personal injury to, or death of, any person or persons, or for any loss, damage or destruction of any property, whether owned by the Customer or others, caused or claimed to have been caused directly or indirectly, by the installation, operation, failure to operate, maintenance, removal, presence, condition, locations or use of service furnished by the Company at such locations. 
+ 
+  
+ 
+ 
+(T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 12 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.4 Liability of the Company (Cont'd) 
+ 
+N. The Company shall not be liable for the Customer's failure to fulfill its obligations to take all necessary steps including, without limitation, obtaining, installing and maintaining all necessary equipment, materials and supplies, for interconnecting the terminal equipment or communications system of the Customer, or any third party acting as its agent, to the Company's Network. The Customer shall secure all licenses, permits, rights-of-way, and other arrangements necessary for such interconnection. In addition, the Customer shall ensure that its equipment and/or system or that of its agent is properly interfaced with the Company's service, that the signals emitted into the Company's Network are of the proper mode, band-width, power, data speed, and signal level for the intended use of the Customer and in compliance with the criteria set forth in Section 2.1.6 following, and that the signals do not damage Company equipment, injure its personnel or degrade service to other Customers. If the Customer or its agent fails to maintain and operate its equipment and/or system or that of its agent properly, with resulting imminent harm to Company equipment, personnel, or the quality of service to other Customers, the Company, may, upon written notice, require the use of protective equipment at the Customer's expense. If this fails to produce satisfactory quality and safety, the Company may, upon written notice, terminate the Customer's service without liability. 
+ 
+2.1.5 Notification of Service-Affecting Activities 
+ 
+The Company will provide the Customer reasonable notification of service-affecting activities within its control that may occur in normal operation of its business. Such activities may include, but are not limited to, equipment or facilities additions, removals or rearrangements and routine preventative maintenance. Generally, such activities are not specific to an individual Customer but affect many Customers' services. No specific advance notification period is applicable to all service activities. The Company will work cooperatively with the Customer to determine the reasonable, notification requirements. With some emergency or unplanned service-affecting conditions, such as an outage resulting from cable damage, notification to the Customer may not be possible. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 13 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.6 Provisions of Equipment and Facilities 
+ 
+A. The Company shall use reasonable efforts to make available services to a Customer on or before a particular date, subject to the provisions of and compliance by the Customer with, the regulations contained in this tariff The Company does not guarantee availability by any such date and shall not be liable for any delays in commencing service to any Customer. 
+ 
+B. The Company shall use reasonable efforts to maintain facilities and equipment that it furnishes to the Customer. The Customer may not, nor may the Customer permit others to, rearrange, disconnect, remove, attempt to repair or otherwise interfere with any of the facilities or equipment installed by the Company, except upon the written consent of the Company. 
+ 
+C. The Company may substitute, change or rearrange any equipment or facility at any time and from time to time, but shall not thereby alter the technical parameters of the service provided the Customer. 
+ 
+D. Equipment the Company provides or installs at the Customer Premises for use in connection with the services the Company offers shall not be used for any purpose other than that for which the Company provided it. 
+ 
+E. The Customer shall be responsible for the payment of service charges imposed on the Company by another entity, for visits to the Customer Premises when the service difficulty or trouble report results from the use of equipment or facilities provided by any party other than the Company, including but not limited to the Customer. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 14 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.6 Provisions of Equipment and Facilities, (Cont’d.) 
+ 
+F. The Company shall not be responsible for the installation, operation, or maintenance of any Customer provided communications equipment. Where such equipment is connected to the facilities furnished pursuant to this tariff, the responsibility of the Company shall be limited to the furnishing of facilities offered under this tariff and to the maintenance and operation of such facilities. Notwithstanding the above, the Company shall not be responsible for: 
+ 
+1. the transmission of signals by Customer-provided equipment or for the quality of, or defects in, such transmission; 
+2. the reception of signals by Customer-provided equipment; or 
+3. network control signaling where such signaling is performed by Customer-provided network control signaling equipment. 
+ 
+G. The Company intends to work cooperatively with the Customer to develop network contingency plans in order to maintain maximum network capability following natural or man-made disasters that affect telecommunications services. 
+ 
+H. The Company reserves the reasonable right to assign, designate or change telephone numbers, any other call number designations associated with Access Services, or the Company serving central office prefixes associated with such numbers, when necessary in the conduct of its business. 
+ 
+2.1.7 Non-routine Installation 
+ 
+At the Customer's request, installation and/or maintenance may be performed outside the Company's regular business hours or in unusual locations. In such cases, charges based on cost of the actual labor, material, or other costs incurred by or charged to the Company will apply. If installation is started during regular business hours but, at the Customer's request, extends beyond regular business hours into time periods including, but not limited to, weekends, holidays, and/or night hours, additional charges may apply. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 15 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.1 Undertaking of the Company, (Cont’d.) 
+ 
+2.1.8 Special Construction 
+ 
+Subject to the arrangement of the Company and to all of the regulations contained in this tariff, special construction of facilities may be undertaken on a reasonable efforts basis at the request of the Customer. Special construction is that construction undertaken and characterized by one or more of the following: 
+ 
+A. where facilities are not presently available and there is no other requirement for the facilities so constructed; 
+ 
+B. of a type other than that which the Company would normally utilize in the furnishing of its services; 
+ 
+C. where facilities are to be installed over a route other than that which the Company would normally utilize in the furnishing of its services; 
+ 
+D. where facilities are requested in a quantity greater than that which the Company would normally construct; 
+ 
+E. where installation is on an expedited basis; 
+ 
+F. on a temporary basis until permanent facilities are available; 
+ 
+G. installation involving abnormal costs; or 
+ 
+H. in advance of its normal construction schedules. 
+ 
+Special construction charges for Switched Access Service will be determined on an individual use basis. 
+ 
+2.1.9 Ownership of Facilities 
+ 
+Title to all facilities provided in accordance with this tariff remains in the Company, its agents, contractors or suppliers. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 16 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.2 Prohibited Uses 
+ 
+2.2.1 The services the Company offers shall not be used for any unlawful purposes or for any use as to which the Customer has not obtained all required governmental approvals, authorizations, licenses, consents and permits. 
+ 
+2.2.2 The Company may require applicants for service who intend to use the Company's offerings for resale and/or for shared use to file a letter with the Company confirming their use of the Company's offerings complies with relevant laws and applicable state regulations, policies, orders, and decisions; and if the Reseller intends to provide intrastate services, is certified with the appropriate state entity. 
+ 
+2.2.3 The Company may require a Customer to immediately shut down its transmission of signals if said transmission is causing interference to others. 
+ 
+2.3 Obligations of the Customer 
+ 
+2.3.1 The Customer shall be responsible for: 
+ 
+A. the payment of all applicable charges pursuant to this tariff 
+B. reimbursing the Company for damage to, or loss of, the Company's facilities or equipment caused by the acts or omissions of the Customer; or the noncompliance by the Customer with these regulations; or by fire or theft or other casualty on the Customer Premises, unless caused by the negligence or willful misconduct of the employees or agents of the Company. The Company will, upon reimbursement for damages to its facilities or equipment, cooperate with the Customer in prosecuting a claim against the person causing such damage and the Customer shall be subjugated in the Company's right of recovery of damages to the extent of such payment; 
+ 
+C. providing at no charge, as specified from time to time by the Company, any needed personnel, equipment, space, and power to operate Company facilities and equipment installed on the Customer Premises, and the level of heating and air conditioning necessary to maintain the proper operating  environment on such Premises; 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 17 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.3 Obligations of the Customer, (Cont’d.) 
+ 
+2.3.1 The Customer shall be responsible for:, (Cont’d.) 
+ 
+D. obtaining, maintaining, and otherwise having full responsibility for all rights-of-way and conduit necessary for installation of fiber optic cable and associated equipment used to provide Access Services to the Customer from the cable building entrance or property line to the location of the equipment space described in 2.31C above. Any costs associated with obtaining and maintaining the rights-of-way described herein, including the costs of altering the structure to permit installation of the Company-provided facilities, shall be owned entirely by, or may be charged by the Company to, the Customer. The Company may require the Customer to demonstrate its compliance with this subsection prior to accepting an order for service; 
+ 
+E. providing a safe place to work and complying with all laws and regulations regarding the working conditions on the Premises at which Company employees and agents shall be installing or maintaining the Company's facilities and equipment. The Customer may be required to install and maintain Company facilities and equipment within a hazardous area if, in the Company's opinion, injury or damage to the Company employees or property might result from installation or maintenance by the Company. The Customer shall be responsible for identifying, monitoring, removing, and disposing of any hazardous material (e.g. friable asbestos) prior to any construction or installation work; 
+ 
+F. complying with all laws and regulations applicable to, and obtaining all consents, approvals, licenses, and permits as may be required with respect to, the location of Company facilities and equipment in any Customer Premises or the rights-of-way which Customer is responsible for obtaining under Section 2.3.1 D above; and granting or obtaining permission for Company agents or employees to enter the Customer Premises at any time for the purpose of installing, inspecting, maintaining, repairing or, upon termination of service as stated herein, removing the facilities or equipment of the Company; and 
+ 
+G. not creating or allowing to be placed or maintained any liens or other encumbrances on the Company's equipment or facilities. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 18 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.3 Obligations of the Customer, (Cont’d.) 
+ 
+2.3.2 Claims 
+ 
+With respect to any service or facility provided by the Company, Customer shall indemnify, defend and hold harmless the Company from all claims, actions, damages, liabilities, costs, and expenses, including reasonable attorneys' fees for: 
+ 
+A. any loss, destruction or damage to property of the Company or any third party, or the death of or injury to persons, including, but not limited to employees or invitees of either the Company or the Customer, to the extent caused by or resulting from the negligent or intentional act or omission of the Customer, its employees, agents, representatives or invitees; 
+ 
+B. any claim, loss, damage, expense or liability for infringement of any copyright, patent, trade secret, or any proprietary or intellectual property right of any third party, arising from any act or omission by the Customer, including, without limitation, use of the Company's services and facilities in a manner not contemplated by the agreement between the Customer and the Company. 
+ 
+2.3.3 Jurisdictional Reporting 
+ 
+The jurisdictional reporting requirements will be as specified below. When a Customer orders Access Service, its projected Percent Interstate Usage (PIU) must be provided in whole numbers to the Company. These whole number percentages will be used by the Company to apportion the use and/or charges between interstate and intrastate until a revised report is received as set forth herein. Reported or default PIU factors are used only where the call detail is insufficient to determine the appropriate jurisdiction of the traffic. 
+ 
+A. Originating Access: Originating access minutes are traffic originating from the Company Local Switching Center(s). The Customer should provide the Company with a projected PIU factor on a quarterly basis. 
+ 
+If no PIU for originating minutes is submitted as specified herein, then the projected PIU will be set on a default basis of 50 percent interstate traffic and 50 percent intrastate traffic. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 19 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.3 Obligations of the Customer, (Cont’d.) 
+ 
+2.3.3 Jurisdictional Reporting., (Cont’d.) 
+ 
+B. Terminating Access: For Feature Group D Switched Access Service(s), the Customer should provide the Company with a projected PIU factor by supplying the Company with an interstate percentage of terminating access minutes on a quarterly basis, as described in Sections 2.3.3.1) below. 
+ 
+If no projected PIU factor is submitted by the Customer, then the projected PIU will be set on a default basis of 50 percent interstate traffic and 50 percent intrastate traffic. 
+ 
+C. Except where the Company-measured access minutes are used as set forth above, the Customer-reported Projected PIU factor as set forth above will be used until the Customer reports a different projected PIU factor, as set forth below. 
+ 
+D. Effective on the first of January, April, July and October of each year the Customer should update its interstate and intrastate jurisdictional report. The Customer should forward to the Company, to be received no later than 15 days after the first of each such month, a revised report showing the interstate and intrastate percentage of use for the past three months ending the last day of December, March, June, and September, respectively, for each service arranged for interstate use, based solely on the traffic originating from or terminating to the Company Local Switching Center. The revised report will serve as the basis for the next three months' billing and will be effective on the bill date for that service. If the Customer does not supply the reports for those services where reports are needed, the Company will assume the percentage to be the same as that provided previously. For those cases in which a quarterly report has never been received from the Customer, the Company will assume the percentages to be the same as those provided in 2.3.3A and 2.3.313 above. 
+ 
+E. Jurisdictional Reports Verification: For Switched Access Service, if a billing dispute arises or a regulatory commission questions the projected PIU factor, the Customer will provide the data issued to determine the projected PIU factor. The Customer will supply the data within 30 days of the Company request. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 20 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.3 Obligations of the Customer, (Cont’d.) 
+ 
+2.3.3 Jurisdictional Reporting., (Cont’d.) 
+ 
+The Customer shall keep records of call detail from which the percentage of interstate and intrastate use can be ascertained and, upon request of the Company, shall make the records available for inspection as reasonably necessary for purposes of verification of the percentages. The Company reserves the right to conduct an audit at any time during the year. The Customer, at its own expense, has the right to retain an independent auditing firm. 
+ 
+2.4 Customer Equipment and Channels 
+ 
+2.4.1 General 
+ 
+A Customer may transmit or receive information or signals via the facilities of the Company. 
+ 
+2.4.2 Station Equipment 
+ 
+A. The Customer is responsible for providing and maintaining any terminal equipment on the Customer Premises. The electric power consumed by such equipment shall be provided by, and maintained at the expense of, the Customer. All such terminal equipment must be registered with the FCC under 47 C.F.R., Part 68 and all wiring must be installed and maintained in compliance with those regulations. The Company will, where practicable, notify the Customer that temporary discontinuance of the use of a service may be required; however, where prior notice is not practicable, nothing contained herein shall be deemed to impair the Company's right to discontinue forthwith the use of a service temporarily if such action is reasonable under the circumstances. In case of such temporary discontinuance, the Customer will be promptly notified and afforded the opportunity to correct the condition, which gave rise to the temporary discontinuance. During such period of temporary discontinuance, credit allowance for service interruptions as set forth in Section 2.6 following is not applicable. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 21 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.4 Customer Equipment and Channels, (Cont’d.) 
+ 
+2.4.2 Station Equipment, (Cont’d.) 
+ 
+B. The Customer is responsible for ensuring that Customer-provided equipment connected to Company equipment and facilities is compatible with such equipment and facilities. The magnitude and character of the voltages and currents impressed on Company-provided equipment and wiring by the connection, operation, or maintenance of such equipment and wiring shall be such as not to cause damage to the Company-provided equipment and wiring or injury to the Company's employees or other persons. Any additional protective equipment required to prevent such damage or injury shall be provided by the Company at the Customer's expense. 
+ 
+2.4.3 Interconnection of Facilities 
+ 
+A. Any special interface equipment necessary to achieve compatibility between the facilities and equipment of the Company used for furnishing Access Services and the Channels, facilities, or equipment of others shall be provided at the Customer's expense. 
+ 
+B. Access Services may be connected to the services or facilities of other communications carriers only when authorized by, and in accordance with, the terms and conditions of the tariffs of the other communications carriers, which are applicable to such connections. 
+ 
+2.4.4 Inspections 
+ 
+A. Upon reasonable notification of the Customer, and at reasonable times, the Company may make such tests and inspections as may be necessary to determine that the Customer is complying with the requirements set forth in Section 2.4.2.13 for the installation, operation, and wiring in the connection of Customer-provided facilities and equipment to Company-owned facilities and equipment. No credit will be allowed for any interruptions occurring during such inspections. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 22 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.4 Customer Equipment and Channels, (Cont’d.) 
+ 
+2.4.4 Inspections, (Cont’d.) 
+ 
+B. If the protective requirements for Customer-provided equipment are not being complied with, the Company may take such action as it deems necessary to protect its facilities, equipment, and personnel. The Company will notify the Customer promptly if there is any need for further corrective action. Within ten days of receiving this notice, the Customer must take this corrective action and notify the Company of the action taken. If the Customer fails to do this, the Company may take whatever additional action is deemed necessary, including the suspension of service, to protect its facilities, equipment, and personnel from harm. The Company will, upon request 24 hours in advance, provide the Customer with a statement of technical parameters that the Customer's equipment must meet. 
+ 
+2.5 Payment Arrangements 
+ 
+2.5.1 Payment for Service 
+ 
+The Customer is responsible for payment of all charges for services and facilities furnished by the Company to the Customer or its Joint or Authorized Users. 
+ 
+Taxes - The Customer is responsible for the payment of any sales, use, gross receipts, excise, access or other local, state and federal taxes, charges or surcharges (however designated) excluding taxes on the Company's net income imposed on or based upon the provision, sale or use of Access Services. All such taxes shall be separately designated on the Company's invoices. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 23 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.5 Payment Arrangements, (Cont’d.) 
+ 
+2.5.2 Billing and Collection of Charges 
+ 
+Unless otherwise specified herein, bills are due and payable upon receipt. 
+ 
+The Company shall bill on a current basis all charges incurred by, and credits due to, the Customer under this tariff attributable to services established, provided, or discontinued during the preceding billing period. 
+ 
+Non-Recurring Charges are due and payable within 30 days after the invoice date. The Company shall present invoices for all Charges monthly to the Customer. 
+ 
+Amounts not paid by the due date indicated on an invoice will be considered past due. The Company will assess a late payment charge equal to 1. 5% per month for any past due balance that exceeds 30 days. If the Company becomes concerned at any time about the ability of a Customer to pay its bills, the Company may require that the Customer pay its bills within a specified number of days and make such payments in cash or the equivalent of cash. 
+ 
+If a service is disconnected by the Company in accordance with Section 2.5.3 following and later restored, restoration of service will be subject to all applicable installation charges. 
+ 
+The Customer shall notify the Company of any disputed items on an invoice within 90 days of receipt of the invoice. If the Customer and the Company are unable to resolve the dispute to their mutual satisfaction, the Customer may file a complaint with the Commission in accordance with the Commission's rules of procedures. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 24 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.5 Payment Arrangements, (Cont’d.) 
+ 
+2.5.3 Refusal and Discontinuance of Service 
+ 
+A. Upon nonpayment of any amounts owing to the Company, the Company may, after giving written notice to the Customer, discontinue or suspend service without incurring any liability. 
+ 
+B. Upon violation of any of the other material terms or conditions for furnishing service the Company may, by giving prior notice in writing to the Customer, discontinue or suspend service without incurring any liability if such violation continues during that period. 
+ 
+C. Upon condemnation of any material portion of the facilities used by the Company to provide service to a Customer or if a casualty renders all or any material portion of such facilities inoperable beyond feasible repair, the Company, by notice to the Customer, may discontinue or suspend service without incurring any liability. 
+ 
+D. Upon any governmental prohibition, or required alteration of the services to be provided or any violation of an applicable law or regulation, the Company may immediately discontinue service without incurring any Liability. 
+ 
+E. Upon the Company's discontinuance of service to the Customer under Section 2.5.3.A or 2.5.3.13 above, the Company, in addition to all other remedies that may be available to the Company at law or in equity or under any other provision of this tariff, may declare all future monthly and other charges which would have been payable by the Customer during the remainder of the term for which such services would have otherwise been provided to the Customer to be immediately due and payable. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 25 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.5 Payment Arrangements, (Cont’d.) 
+ 
+2.5.3 Refusal and Discontinuance of Service, (Cont’d.) 
+ 
+F. The Company may discontinue the furnishing of any and/or all service(s) to Customer, without incurring any liability: 
+ 
+1. Immediately and without notice if the Company deems that such action is necessary to prevent or to protect against fraud or to otherwise protect its personnel, agents, facilities or services. The Company may discontinue service pursuant to this sub-section if 
+ 
+(a) the Customer refuses to furnish information to the Company regarding the Customer's credit-worthiness, its past or current use of Common Carrier communications services or its planned use of service(s); or 
+(b) the Customer provides false information to the Company regarding the Customer's identity, address, creditworthiness, past or current use of Common Carrier communications services, or its planned use of the Company's service(s); or 
+(c) the Customer states that it will not comply with a request of the Company for security for the payment for service(s); or 
+(d) the Customer has been given written notice by the Company of any past due amount (which remains unpaid in whole or in part) for any of the Company's other Common Carrier communications services to which the Customer either subscribes or had subscribed or used; or 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 26 
+ Cancels Original Sheet 26 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.5 Payment Arrangements, (Cont’d.) 
+ 
+2.5.3 Refusal and Discontinuance of Service, (Cont’d.) 
+ 
+F. (Cont’d.) 
+ 
+1. (Cont’d.) 
+ 
+(e) The Customer uses, or attempts or use, service with the intent to void the payment, either in whole or in part, of the tariff charges for the service by: 
+ 
+I. Using or attempting to use service by rearranging, tampering with, or making connections to the Company's service not authorized by this tariff, or 
+II. Using tricks, schemes, false or invalid numbers, false credit devices, electronic devices; or 
+III. Delivering calls to or accepting calls from the Company's End Users or other users of the Company’s services; or 
+IV. Continuing to have Company End Users or other users of the Company’s services; or 
+V. Any other Fraudulent means or devices; or 
+ 
+2. Upon failure to receive payment within five (5) days of the payment due date; or 
+ 
+3. Five (5) days after sending the Customer written notice of noncompliance with any provision of this tariff if the noncompliance is not corrected within that five (5)-day period. The discontinuance of service(s) by the Company pursuant to this Section does not relieve the Customer of any obligation to pay the Company for charges due and owing for service(s) furnished up to the time of discontinuance. 
+  
+(T) | (T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 27 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.5 Payment Arrangements, (Cont’d.) 
+ 
+2.5.3 Refusal and Discontinuance of Service, (Cont’d.) 
+ 
+G. In the event the Company incurs fees or expenses, including attorney's fees, in collecting, or attempting to collect, any charges owed the Company; the Customer will be liable to the Company for the payment of all such fees and expenses reasonably incurred. 
+ 
+2.5.4 Cancellation of Application for Service 
+ 
+Where, prior to cancellation by the Customer, the Company incurs any expenses in installing the service or in preparing to install the service that it otherwise would not have incurred, a charge equal to the costs the Company incurred, less net salvage, shall apply, but in no case shall this charge exceed the sum of the charge for the minimum period of services ordered, including installation charges, and all charges others levy against the company that would have been chargeable to the Customer had service begun. 
+ 
+The special charges described will be calculated and applied on a case-by-case basis. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 28 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.6 Allowances for Interruptions in Service 
+ 
+Interruptions in service which are not due to the negligence of or noncompliance with the provisions of this tariff by, the Customer or the operation or malfunction of the facilities, power, or equipment provided by the Customer, will be credited to the Customer as set forth in 2.6. 1 for the part of the service that the interruption affects. 
+ 
+The credit allowance will be calculated by the Company after the Customer notifies the Company of service interruption. The amount of the allowance will depend on the length of the outage and the service impacted. Service Outage conditions are defined as complete loss of call origination and/or receipt capability. Credit Allowances, if any, will be deducted from the charges payable by the INC and will be expressly indicated on the next invoice. A Service Outage begins when the INC reports the outage to the Company. A Service Outage ends when the affected circuit and/or associated Company equipment is fully operational in accordance with the technical specifications. 
+ 
+Credit allowances do not apply to outages (i) caused by the INC; (ii) due to failure of equipment provided by the INC; (iii) during any period in which the Company is not given access to the service premises; (iv) resulting from failures of LEC facilities or equipment resulting from the activities or negligence of LEC employees; (v) during which the Company is unable to gain access to the IXC's equipment; and (vi) due to mutually agreed upon maintenance and repair. 
+ 
+Credit Allowances received by the Company from the LEC for Off-Net facility outages that affect the IXC's Switched Services will be passed through to the INC in the form of a credit on the next invoice. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 29 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.6 Allowances for Interruptions in Service, (Cont’d.) 
+ 
+2.6.1 Limitations on Allowances 
+ 
+No credit allowance will be made for: 
+ 
+A. interruptions due to the negligence of, or noncompliance with the provisions of this tariff by, the Customer, Authorized User, Joint-User, or other Common Carrier providing service connected to the service of Company; 
+ 
+B. interruptions due to the negligence of any person other than the Company, including, but not limited to, the Customer or other Common Carriers connected to the Company's facilities; 
+ 
+C. interruptions due to the failure or malfunction of non-Company equipment; 
+ 
+D. interruptions of service during any period in which the Company is not given full and free access to its facilities and equipment for the purpose of investigating and correcting interruptions; 
+ 
+E. interruptions of service during a period in which the Customer continues to use the service on an impaired basis; 
+ 
+F. interruptions of service during any period when the Customer has released service to the Company for maintenance purposes or for implementation of a Customer order for a change in service arrangements; 
+ 
+G interruption of service due to circumstances or causes beyond the control of the Company. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 30 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.7 Transfers and Assignments 
+ 
+Neither the Company nor the Customer may assign or transfer its rights or duties in connection with the services and facilities provided by the Company without the written consent of the other party, except that the Company may assign its rights and duties (a) to any subsidiary, parent Company or affiliate of the Company (b) pursuant to any sale or transfer of substantially all the assets of the Company; or pursuant to any financing, merger or reorganization of the Company. 
+ 
+2.8 Notices and Communications 
+ 
+2.8.1 Delivery of calls to or acceptance of calls from the Company's End User locations over Company-switched local exchange services constitutes an order by the Customer to purchase switched access services as described herein. Similarly the selection by a Company's End User of the Customer as the presubscribed INC constitutes an order of switched access by the Customer. In these cases, an invoice will be the first communication from the Company to the Customer. In other instances a Service Order may be used. 
+ 
+2.8.2 The Customer shall designate on the Service Order an address to which the Company shall mail or deliver all notices and other communications, except that the Customer may also designate a separate address to which the Company's bills for service shall be mailed. 
+ 
+2.8.3 The Company shall designate on the Service Order an address to which the Customer shall mail or deliver all notices and other communications, except that the Company may designate a separate address, on each bill for service, to which the Customer shall mail payment on that bill 
+ 
+2.8.4 All notices or other communications required to be given pursuant to this tariff shall be in writing. Notices and other communications of either party, and all bills mailed by the Company, shall be presumed to have been delivered to the other party on the third business day following deposit of the notice, communication, or bill with the U.S. Mail or a private delivery service, prepaid and properly addressed, or when actually received or refused by the addressee, whichever occurs first. 
+ 
+2.8.5 The Company or the Customer shall advise the other party of any changes to the addresses designated for notices, other communications or billing, by following the procedures for giving notice set forth herein. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 31 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 2 – RULES AND REGULATIONS, (Cont’d.) 
+ 
+2.9 Meet Point Billing 
+ 
+Meet Point Billing applies when more than one Exchange Telephone Company is involved in the provision of Access Service. All recurring and nonrecurring charges for services provided by each Exchange Telephone Company are billed under each company's applicable rates as set forth below. 
+ 
+The Company accepts and adheres to the Ordering and Billing Forum Guidelines, Multiple Exchange Carrier Access Billing (MECAB) and Multiple Exchange Carrier Ordering and Design (MECOD). 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 32 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 3 – ORDERING OPTIONS FOR ACCESS SERVICE 
+ 
+3.1 General 
+ 
+This section sets forth the regulations and order related charges for Access Service Requests (ASR) for Switched Access Service, as defined in this tariff. These charges are in addition to other applicable charges set forth in other sections of this tariff. 
+ 
+3.1.1 Ordering Conditions 
+ 
+Customer may order switched access through a Constructive Order, as defined herein, or through an ASR. The format and terms of the ASR will be as specified in the Industry Access Service Order Guidelines, unless otherwise specified herein. 
+ 
+3.1.2 Minimum Period of Service 
+ 
+The minimum period for which Access Service is provided and for which charges are applicable is one month. 
+ 
+A. The following changes will be treated as a discontinuance of the existing service and a request for installation of a new service. All associated Non-Recurring Charges will apply for the new service, and a new minimum period will be established: 
+ 
+1. a change in the identity of the Customer of record; or 
+2. a move by the Customer to a different building. 
+ 
+B. When Access Service is disconnected prior to the expiration of the minimum period, charges are applicable for the balance of the minimum period. The Minimum Period Charge for monthly billed services will be determined as follows: 
+ 
+For Switched Access Service, the charge for a month or fraction thereof is equivalent to 50,000 billed minutes of use for the applicable service. 
+ 
+All applicable Non-Recurring Charges for the service will be billed in addition to the Minimum Period Charge. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 33 
+ Cancels Original Sheet 33 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 3 – ORDERING OPTIONS FOR ACCESS SERVICE, (Cont’d.) 
+ 
+3.2 Ordering, Rating and Billing of Access Services Where More Than One Exchange Telephone Company is Involved 
+ 
+ 3.2.1 The billing method set forth herein is applicable to interconnection arrangements between Exchange Telephone Companies involved in the provision of all Access Services. In accordance with the Federal Communications Commission’s Memorandum Opinion and Order in CC Docket No. 86-106, adopted July 20, 1987, the Company will adhere to the standards set forth in the Multiple Exchange Carrier Access Billing (MECAB) and the Multiple Exchange Carrier Ordering and Design (MECOD) Guidelines when providing access service under Multiple Telephone Company (Interconnection Point) Billing arrangements. The Exchange Telephone Companies involved in providing the Access Service will develop a mutually agreeable working arrangement to allow one of the Exchange Telephone Companies to perform “Access Service Coordination” (ASC) for all services requested. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Certain material previously found on this page is now located on Page 40.3.  
+ 
+ 
+ (N)(M) | | | | | | | | | | 
+| | (N)(M) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 33.1 
+  
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 3 – ORDERING OPTIONS FOR ACCESS SERVICE, (Cont’d.) 
+ 
+3.2 Ordering, Rating and Billing of Access Services Where More Than One Exchange Telephone Company is Involved, (Cont’d.) 
+3.2.2 When an Access Service ordered by a Customer involves more than one Exchange Telephone Company, the Exchange Telephone Companies involved will use a Multiple Bill Method. Under the Multiple Bill Method each Exchange Telephone Company involved will provide the portion of the service in its operating territory and bill the Customer in accordance with its Access Service tariff. 
+  A. When Switched Access Service is ordered by a Customer where one end of the Transport element is in the Company operating territory and the other end is in another Exchange Telephone Company operating territory, the orders shall be received as follows: 
+1. For Switched Access Service ordered to an end office, the Exchange Telephone Company in whose operating territory the end office is located must receive the Service Order from the Customer. 
+2. For Switched Access Service ordered to an access tandem, the Exchange Telephone Company in whose operating territory the access tandem is located must receive the Service Order from the Customer. A Service Order delivered to the Exchange Telephone Company operating an access tandem that is subtended by this Company’s switch will constitute a Service Order for Switched Access Service under this tariff. 
+3. For the Service ordered set forth in 1. and 2. preceding, the Exchange Telephone Company in whose operating territory the customer point of termination is located must also receive a copy of the order from the customer. 
+4. Each Exchange Telephone Company will provide the portion of the Transport element in its operating territory to an interconnection point with another Exchange Telephone Company and will bill the charges in accordance with its Access Service tariff. All appropriate charges in each Exchange Telephone Company tariff are applicable. 
+B. The interconnection points will be determined by the Exchange Telephone Companies involved. (N) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 34 
+ Cancels Original Sheet 34 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 4 – SWITCHED ACCESS SERVICE 
+ 
+4.1 General 
+ 
+Switched Access Service involves the use of common terminating, switching and transport facilities. Switched Access services provides the ability to originate or terminate calls between an End User’s Premises, Conference Bridge, or other user of the Company’s services and a Customer’s Premises. 
+ 
+ 
+ 
+ 
+Rates and charges are set forth in Section 5. The application of rates for Switched Access Service is described in Section 5. 
+ 
+4.2 Provision and Description of Switched Access Service Arrangements 
+ 
+4.2.1 Feature Group Access 
+ 
+Feature Group (“FG”) Access provides trunk-side access to Local Switching Center switches, for the Customer’s use in originating and terminating communications. Basic FG Access service will be provided with Multi-Frequency In-Band Signaling (SS7 is also available, where capabilities exist). 
+ 
+All traffic is routed to and from the Company's local switching center via the Customer's tandem provider or via end office trucking, where available.  
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.2 Manner of Provision 
+ 
+Trunks used for Switched Access Service may be configured for one-way (either originating only or terminating only) or for two-way directionality. 
+ (T) | | (T) 
+(D) (D) 
+(T) | (T) 
+(D) | | (D) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 35 
+ Cancels Original Sheet 35 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 4 – SWITCHED ACCESS SERVICE, (Cont’d.) 
+ 
+4.2 Provision and Description of Switched Access Service Arrangements, (Cont’d.) 
+ 
+4.2.3 Call Types 
+ 
+The following Switched Access Service call types are available: 
+ 
+A. Originating FG Access 
+B. Originating 800 FG Access 
+C. Terminating FG Access 
+ 
+4.2.4 Originating FG Access 
+ 
+The access code for FG Access switching is a uniform access code of the form 1+ or 011+ or 101XXXX. For 101XXXX dialing a single access code will be the assigned number of all FG Access provided to the Customer by the Company. When the access code is used, FG Access switching also provides for dialing the digit 0 for access to the Customer's operator service, 911 for access to emergency service, and/or the end-of-dialing digit (#) for cut through access to the Customer's premises. The Company will provide originating FG access consistent with dialing parity obligations. 
+ 
+4.2.5 Originating 800 FG Access 
+ 
+800 Data Base Access Service is a service utilizing originating Trunk side Switched Access Service. When an 8YY + NXX + XXXX call is originated by an End User or other users of the Company’s services, the Company will perform Customer identification based on screening of the full ten digits of the 8YY number to determine the Customer location to which the call is to be routed. This Tariff applies only to interstate 8YY calls originated by End Users and other users of the Company’s services served by the Company. 
+ 
+4.2.6 Terminating FG Access 
+ 
+FG Access, when used in the terminating direction, may only be used to access End Users who are subscribing to the Company's Local Exchange Services or other users of the Company’s services. Calls in the terminating direction will not be completed to 950-0XXX or 950-lXXX access codes, local operator assistance (0- and 0+), Directory Assistance, (411 or 555-1212) service codes 611 and 911 and 101XXXX access codes. 
+ 
+  
+(T) 
+(T) 
+ 
+(T) | (T) 
+(T) 
+| 
+(T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 36 
+ Cancels Original Sheet 36 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES 
+ 
+5.1 General 
+ 
+This section contains the specific regulations governing the rates and charges that apply for Switched Access Services: 
+ 
+The Company offers Tandem Switching Access Services, Local Switching Access Service – Direct Connection, and Local Switching Access Service – Indirect Connection. 
+ 
+There are three types of rates and charges that apply to Switched Access Service: 
+ 
+-Non-Recurring Charges: 
+ One-time charges that apply for a specific work activity. 
+ 
+ 
+  
+ 
+-Recurring Charges: 
+ Fixed charges apply each month and depend on the number and type of facilities in place. 
+ 
+ 
+  
+ 
+-Usage Charges: 
+ Charges that are applied on a per access minute basis. Usage rates are accumulated over a monthly period. 
+ 
+
+ 
+5.2  Rate Categories  
+ 
+ 5.2.1 Tandem Switching Access Service (Originating and Terminating) 
+ 
+Tandem Switching is an access service providing transmission and tandem switching between the Customer designated premises and the Company switch(es) where the Customer’s traffic is switched from or to an entity other than an End User for purposes of originating or terminating the Customer’s communications. The Tandem Switching Access Service composite rate is comprised of the following rate elements: tandem switching charges, tandem termination charges, and tandem facility mileage charges. 
+ 
+5.2.2 Local Switching Access Service - Direct Connection (Originating and Terminating) 
+ 
+Local Switching Access Service - Direct Connection is an access service providing the Customer connections to and use of end office switching equipment for the origination or termination of the Customer’s communications to the Company’s End Users. The Local Switching Access Service - Direct Connection rate consists of end office switching charges and may also include a DS3 trunk port charge. With Direct Connection, Customer is responsible for ordering or providing the DS3 facility to the Company’s point of presence in the access tandem serving area. The DS3 trunk port charge applies on an Individual Case Basis when the Customer is not collocated with the Company’s switch. The rate will not exceed that of the competing ILEC rate for the same function. 
+ (N) (N) 
+(T) | | | | | | | | | | | | | | | | | | (T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 37 
+ Cancels Original Sheet 37 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.2  Rate Categories, (Cont’d.)  
+ 
+5.2.3 Local Switching Access Service - Indirect Connection (Originating and Terminating) 
+ 
+Local Switching Access Service - Indirect Connection is an access service providing the Customer use of end office switching equipment for the origination or termination of the Customer’s communications to the Company’s End Users as well as transport to or from the Customer’s tandem provider. The Local Switching Access Service - Indirect Connection composite rate is comprised of the following rate elements: end office switching charges, tandem termination charges, and tandem facility mileage charges. 
+ 
+5.2.4  Toll-Free 8YY Data Base Query  
+ 
+The Toll-Free 8YY Data Base Query Charge, will apply for each Toll-Free 8YY call query received at the Company’s (or its provider’s) Toll-Free 8YY database.  
+ 
+5.2.5 Toll-Free 8YY Switched Access Service 
+ 
+The Toll-Free 8YY Switched Access Service is an originating access service in which the Company delivers Toll Free calls to Customers. Rate elements apply as set forth in Section 5.4.5. 
+ 
+5.2.6  Optional Features  
+ 
+Other optional features may be available on an Individual Case Basis (ICB). 
+ 
+ (T) | | | | | | (T) 
+ 
+(T) 
+ 
+(T) 
+(T) 
+ 
+(N) | | | (N) 
+ 
+(T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 38 
+ Cancels Original Sheet 38 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.3 Billing of Access Minutes 
+ 
+When recording originating calls over FG Access with multi-frequency address signaling, usage measurement begins when the first wink supervisory signal is forwarded from the Customer's facilities. The measurement of originating call usage over FG Access ends when the originating FG Access entry switch receives disconnect supervision from either the originating End User's or other user’s Local Switching Center - (indicating that the originating End User or other user has disconnected), or the Customer's facilities, whichever is recognized first by the entry switch. 
+ 
+For terminating calls over FG Access with multi-frequency address signaling, the measurement of access minutes begins when a seizure signal is received from the Carrier's trunk group at the Point of Presence within the LATA. The measurement of terminating call usage over FG Access ends when a disconnect signal is received, indicating that either the originating or terminating user has disconnected. 
+ 
+When recording originating calls over FG Access with SS7 signaling, usage measurement begins with the transmission of the initial address message by the switch for direct trunk groups and with the receipt of an exit message by the switch for tandem trunk groups. The measurement of originating FG Access usage ends when the entry switch receives or sends a release message, whichever occurs first. 
+ 
+For terminating calls over FG Access with SS7 signaling, the measurement of access minutes begins when the terminating recording switch receives the initial address message from the terminating End User or other user. On directly routed trunk groups or on tandem routed trunk groups, the Company switch receives the initial address message and sends the indication to the Customer in the form of an answer message. The measurement of terminating FG Access call usage ends when the entry switch receives or sends a release message, whichever occurs first. 
+  
+ 
+ 
+(T) 
+(T) 
+ 
+ 
+(T) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Second Revised Sheet 39 
+ Cancels First Revised Sheet 39 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.4 Rates and Charges 
+ 
+5.4.1 Switched Access, Per Minute of Use 
+ 
+ 
+ 
+State 
+  
+Competing 
+ILEC 
+ Tandem Switching Access 
+ Local Switching Access-Direct Connect 
+ Local Switching Access-Indirect Connect 
+ 
+Alabama 
+ AT&T  
+ $0.0013330 (R)  
+ $0.0021580  
+ $0.0023460  
+ 
+Arkansas 
+ AT&T 
+ $0.0003440 (R)  
+ $0.0025630  
+ $0.0026190  
+ 
+Arizona 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+California 
+ AT&T 
+ $0.0011970  
+ $0.0026200  
+ $0.0027750  
+ 
+California 
+ Verizon 
+ $0.0015760 (R)  
+ $0.0019019  
+ $0.0019039  
+ 
+Colorado 
+ Qwest 
+ $0.0025220 
+ $0.0019740  
+ $0.0022440  
+ 
+Connecticut 
+ AT&T 
+ $0.0007000 
+ $0.0031330  
+ $0.0031990  
+ 
+Connecticut 
+ Verizon  
+ $0.0015760 (R)  
+ $0.0024060 (I) 
+ $0.0024080 (I)  
+ 
+Delaware 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+District of Columbia 
+ Verizon  
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+Florida 
+ AT&T 
+ $0.0013330 (R)  
+ $0.0021580  
+ $0.0023460  
+ 
+Florida 
+ CenturyLink  
+ $0.0015970  
+ $0.0035680  
+ $0.0039680  
+ 
+Georgia 
+ AT&T 
+ $0.0013330 (R)  
+ $0.0021580  
+ $0.0023460  
+ 
+Hawaii 
+ Hawaiian Telcom  
+ $0.0013600  
+ $0.0017835  
+ $0.0019435  
+ 
+Idaho 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Illinois 
+ AT&T 
+ $0.0012000 (R)  
+ $0.0031160  
+ $0.0032320  
+ 
+Indiana 
+ AT&T 
+ $0.0012000 (R)  
+ $0.0031160  
+ $0.0032320  
+ 
+Iowa 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Iowa 
+ Frontier 
+ $0.0005900  
+ $0.0037140  
+ $0.0043040  
+ 
+Kansas 
+ AT&T 
+ $0.0003440 (R) 
+ $0.0025630  
+ $0.0026190  
+ 
+Kentucky 
+ AT&T 
+ $0.0013330 (R) 
+ $0.0021580  
+ $0.0023460  
+ 
+Louisiana 
+ AT&T 
+ $0.0013330 (R)  
+ $0.0021580  
+ $0.0023460  
+ 
+Maine 
+ FairPoint  
+ $0.0016030  
+ $0.0022640  
+ $0.0022670  
+ 
+Maryland 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I)  
+ $0.0024080 (I)  
+ 
+Massachusetts 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+Michigan 
+ AT&T 
+ $0.0012000 (R) 
+ $0.0031160  
+ $0.0032320  
+ 
+Minnesota 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Minnesota 
+ CenturyLink  
+ $0.0005690  
+ $0.0039830  
+ $0.0042210  
+ 
+Mississippi 
+ AT&T 
+ $0.0013330 (R)  
+ $0.0021580  
+ $0.0023460  
+ 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Second Revised Sheet 40 
+ Cancels First Revised Sheet 40 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.4 Rates and Charges, (Cont’d.) 
+ 
+5.4.1 Switched Access, Per Minute of Use, (Cont’d.) 
+ 
+ 
+ 
+State 
+  
+Competing 
+ILEC 
+ Tandem Switching Access 
+ Local Switching Access-Direct Connect 
+ Local Switching Access-Indirect Connect 
+ 
+Missouri 
+ AT&T 
+ $0.0003440 (R)  
+ $0.0025630  
+ $0.0026190  
+ 
+Montana 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Nebraska 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Nebraska 
+ Windstream  
+ $0.0012140  
+ $0.0030000  
+ $0.0042140  
+ 
+Nevada 
+ AT&T 
+ $0.0011900  
+ $0.0013420  
+ $0.0014700 
+ 
+New Hampshire 
+ FairPoint  
+ $0.0016030  
+ $0.0022640  
+ $0.0022670  
+ 
+New Jersey 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+New Mexico 
+ Qwest 
+ $0.0025220 
+ $0.0019740  
+ $0.0022440  
+ 
+New York 
+ Verizon 
+ $0.0015760 (R)  
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+New York 
+ Frontier 
+ $0.0016500  
+ $0.0029516  
+ $0.0045015  
+ 
+North Carolina 
+ AT&T 
+ $0.0013330 (R) 
+ $0.0021580  
+ $0.0023460  
+ 
+North Carolina 
+ CenturyLink  
+ $0.0008910 
+ $0.0037350  
+ $0.0039870  
+ 
+North Dakota 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Ohio 
+ AT&T 
+ $0.0012000 (R)  
+ $0.0031160  
+ $0.0032320  
+ 
+Ohio 
+ Cincinnati Bell 
+ $0.0027180  
+ $0.0038625 (I) 
+ $0.0045795 (I) 
+ 
+Oklahoma 
+ AT&T 
+ $0.0003440 (R)  
+ $0.0025630  
+ $0.0026190  
+ 
+Oregon 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Pennsylvania 
+ Verizon 
+ $0.0015760 (R)  
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+Rhode Island 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+South Carolina 
+ AT&T 
+ $0.0013330 (R) 
+ $0.0021580  
+ $0.0023460  
+ 
+South Dakota 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Tennessee 
+ AT&T 
+ $0.0013330 (R) 
+ $0.0021580 
+ $0.0023460  
+ 
+Texas 
+ AT&T 
+ $0.0003440 (R)  
+ $0.0025630  
+ $0.0026190  
+ 
+Texas 
+ Verizon 
+ $0.0015760 (R)  
+ $0.0024060 (I) 
+ $0.0024080 (I)  
+ 
+Utah 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+Vermont 
+ FairPoint  
+ $0.0016030  
+ $0.0022640  
+ $0.0022670  
+ 
+Virginia 
+ Verizon 
+ $0.0015760 (R) 
+ $0.0024060 (I) 
+ $0.0024080 (I) 
+ 
+Washington 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+West Virginia 
+ Frontier  
+ $0.0016860  
+ $0.0022730  
+ $0.0022750  
+ 
+Wisconsin 
+ AT&T 
+ $0.0012000 (R) 
+ $0.0031160  
+ $0.0032320  
+ 
+Wyoming 
+ Qwest 
+ $0.0025220  
+ $0.0019740  
+ $0.0022440  
+ 
+
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 40.1 
+ Cancels Original Sheet 40.1 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.4 Rates and Charges, (Cont’d.) 
+ 
+5.4.2 Toll-Free 8YY Data Base Query, per Query 
+ 
+State 
+ Competing ILEC 
+ Rate 
+ 
+Alabama 
+ AT&T  
+ $0.0042100  
+ 
+Arkansas 
+ AT&T 
+ $0.0025310  
+ 
+Arizona 
+ Qwest 
+ $0.0040530  
+ 
+California 
+ AT&T 
+ $0.0047770  
+ 
+California 
+ Verizon 
+ $0.0086681 (R) 
+ 
+Colorado 
+ Qwest 
+ $0.0040530  
+ 
+Connecticut 
+ AT&T 
+ $0.0033930  
+ 
+Connecticut 
+ Verizon 
+ $0.0043560 (I)  
+ 
+Delaware 
+ Verizon 
+ $0.0043560 (I)  
+ 
+District of Columbia 
+ Verizon  
+ $0.0043650 (I) 
+ 
+Florida 
+ AT&T 
+ $0.0042100  
+ 
+Florida 
+ CenturyLink 
+ $0.0088430  
+ 
+Georgia 
+ AT&T 
+ $0.0042100  
+ 
+Hawaii 
+ Hawaiian Telcom  
+ $0.0082007  
+ 
+Idaho 
+ Qwest 
+ $0.0040530  
+ 
+Illinois 
+ AT&T 
+ $0.0023040  
+ 
+Indiana 
+ AT&T 
+ $0.0023040  
+ 
+Iowa 
+ Qwest 
+ $0.0040530  
+ 
+Iowa 
+ Frontier 
+ $0.0031773  
+ 
+Kansas 
+ AT&T 
+ $0.0025310  
+ 
+Kentucky 
+ AT&T 
+ $0.0042100  
+ 
+Louisiana 
+ AT&T 
+ $0.0042100  
+ 
+Maine 
+ FairPoint 
+ $0.0037020  
+ 
+Maryland 
+ Verizon 
+ $0.0043560 (I)  
+ 
+Massachusetts 
+ Verizon 
+ $0.0043560 (I)  
+ 
+Michigan 
+ AT&T 
+ $0.0023040  
+ 
+Minnesota 
+ Qwest 
+ $0.0040530  
+ 
+Minnesota 
+ CenturyLink  
+ $0.0076870  
+ 
+Mississippi 
+ AT&T 
+ $0.0042100  
+ 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ First Revised Sheet 40.2 
+ Cancels Original Sheet 40.2 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.4 Rates and Charges, (Cont’d.) 
+ 
+5.4.2 Toll-Free 8YY Data Base Query, per Query, (Cont’d.) 
+ 
+State 
+ Competing ILEC 
+ Rate 
+ 
+Missouri 
+ AT&T 
+ $0.0025310  
+ 
+Montana 
+ Qwest 
+ $0.0040530  
+ 
+Nebraska 
+ Qwest 
+ $0.0040530  
+ 
+Nebraska 
+ Windstream  
+ $0.0010000  
+ 
+Nevada 
+ AT&T 
+ $0.0051770  
+ 
+New Hampshire 
+ FairPoint  
+ $0.0037020   
+ 
+New Jersey 
+ Verizon 
+ $0.0043560 (I) 
+ 
+New Mexico 
+ Qwest 
+ $0.0040530   
+ 
+New York 
+ Verizon 
+ $0.0043560 (I)  
+ 
+New York 
+ Frontier 
+ $0.0029516  
+ 
+North Carolina 
+ AT&T 
+ $0.0042100   
+ 
+North Carolina 
+ CenturyLink  
+ $0.0080460  
+ 
+North Dakota 
+ Qwest 
+ $0.0040530  
+ 
+Ohio 
+ AT&T 
+ $0.0023040  
+ 
+Ohio 
+ Cincinnati Bell 
+ $0.0023910  
+ 
+Oklahoma 
+ AT&T 
+ $0.0025310  
+ 
+Oregon 
+ Qwest 
+ $0.0040530  
+ 
+Pennsylvania 
+ Verizon 
+ $0.0043560 (I) 
+ 
+Rhode Island 
+ Verizon 
+ $0.0043560 (I) 
+ 
+South Carolina 
+ AT&T 
+ $0.0042100  
+ 
+South Dakota 
+ Qwest 
+ $0.0040530  
+ 
+Tennessee 
+ AT&T 
+ $0.0042100  
+ 
+Texas 
+ AT&T 
+ $0.0025310  
+ 
+Texas 
+ Verizon 
+ $0.0043560  (I) 
+ 
+Utah 
+ Qwest 
+ $0.0040530   
+ 
+Vermont 
+ FairPoint  
+ $0.0037020  
+ 
+Virginia 
+ Verizon 
+ $0.0043560 (I) 
+ 
+Washington 
+ Qwest 
+ $0.0040530  
+ 
+West Virginia 
+ Fontier  
+ $0.0038350 (R)   
+ 
+Wisconsin 
+ AT&T 
+ $0.0023040  
+ 
+Wyoming 
+ Qwest 
+ $0.0040530  
+ 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 40.3 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+5.4 Rates and Charges, (Cont’d.) 
+ 
+5.4.3 Switched Access Optional Features  
+ 
+All Optional Features are offered on an Individual Case Basis (ICB). 
+ 
+5.4.4 Miscellaneous Charges 
+ 
+Customer Requested Due Date Change 1 2 
+ $50, per order 
+ 
+ 
+  
+ 
+Customer Requested Expedite 2 
+ $250, per location, per order 
+ 
+ 
+  
+ 
+Cancellation  
+   (after 3 business days from order placement) 2 
+ Full NRCs + $250, per order 
+ 
+ 
+  
+ 
+Design Change, DSO/DS 1 2  
+ $150, per circuit 
+ 
+ 
+  
+ 
+Design Change, DS3 and higher 2  
+ $300, per circuit 
+ 
+ 
+  
+ 
+Administrative Processing 2  
+ $25, per order 
+ 
+ 
+  
+ 
+Returned Check Charge 
+ $35.00 
+ 
+ 
+  
+ 
+Paper / Electronic Media Fee 
+ Customers who elect to receive a paper or CD-ROM version of their invoice will incur a surcharge of $15.00 per bill cycle. 
+ 
+
+ 
+ 
+ 
+ 
+Material now found on this sheet was previously located on Sheets 33 and 40. 
+ 
+________________________________ 
+1 Company Due Date Change Policy - No due date change accepted at or after four (4) days prior to the current due date. If a Customer request is received during that time period, the supplemental charge will apply and, in addition, the billing will start on the current due date without exception. 
+ 
+2 For services involving facilities leased from other telecommunications providers, Supplementary Charges will be priced on an Individual Case Basis, and will be based upon a pass-through of all charges assessed by other providers, plus the Company's administrative costs. (M) | (M) 
+(M) | | | | | | | | | | | | (M) 
+ 
+(N) | | | | | (N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 40.4 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+ 
+
+ 
+ (N) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 40.5 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+ (N) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (N) 
+
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 40.6 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 5 – SWITCHED ACCESS RATES, (Cont’d.) 
+ 
+ 
+
+ 
+ (N) | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | (N) 
+
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 41 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 6 – END USER ACCESS SERVICE 
+ 
+6.1 General Description 
+ 
+The Company will provide End User Access Service to end users who obtain local telephone exchange service from the Company's General Subscriber Service Tariffs. End User Access Service provides for the use of an End User Common Line (EUCL). 
+ 
+6.2 Limitations 
+ 
+(A) A telephone number is not provided with End User Access Service. 
+(B) Detail billing is not provided with End User Access Service. 
+(C) Directory listings are not included with End User Access Service. 
+(D) Intercept arrangements are not included with end User Access Service. 
+ 
+6.3 Undertaking of the Company 
+ 
+The Company will provide End User Access Service at rates and charges as set forth in 
+6.7 following, as follows: 
+ 
+(A) Use of an EUCL by an end user will be provided when the end user obtains local exchange service in connection with interstate access services provided under this Tariff. 
+(B) The Company will be responsible for contacts and arrangements with end users for the billing of End User Access Service charges. 
+ 
+6.4 Obligations of the End User 
+ 
+(A) When the end user is a Radio Common Carrier (RCC) or a Maritime Radio Common Carrier (MRCC), it shall designate whether the local exchange services it is provided by the Company are used as access lines for its services or used as administrative lines. 
+ 
+(B) When the end user is provided with a local exchange service which is not identified as Centrex Type Services, Business Service or Residence Service, it shall provide the Company any requested information necessary for the Company to determine the appropriate charges. 
+ 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 42 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 6 – END USER ACCESS SERVICE, (Cont’d.) 
+ 
+6.5 Payment Arrangements and Credit Allowances 
+ 
+(A) Minimum Period - The minimum period for which EUCL End User Access Service is provided to an end user and for which charges are applicable is the same as that in the General Subscriber Service Tariffs for the associated local telephone exchange service. 
+(B) Cancellation of Application - End User Access Service is cancelled when the order for the associated local telephone exchange service is cancelled. No cancellation charges apply. 
+(C) Changes to Orders - When changes are made to orders for the local telephone exchange service associated with End User Access Service, any necessary changes will be made for End User Access Service. No charges will apply. 
+(D) Allowance for Interruptions - When there is an interruption to an EUCL, requested End User Access Service credit allowances for interruptions will be provided as set forth for credit allowance for interruptions in 2.25 preceding. 
+(E) Temporary Suspension of Service - When an end user temporarily suspends its local exchange service that is associated with EUCL, one- half of the EUCL per month charge will be temporarily suspended for the time period the local exchange service is suspended. 
+ 
+6.6 Rate Regulations 
+ 
+(A) EUCL per month charges will be billed to the end user of the associated local exchange service. 
+ 
+(B) For each local exchange service provided as remote call forwarding residential service or remote call forwarding business service under the General Subscriber Service Tariffs, End User Access Service charges do not apply. For each local exchange service, other than local exchange service used for administrative purposes, provided to Radio Common Carriers (RCC) and/or Maritime Radio Common Carriers (MRCC) as access lines for their services under the General Subscriber Service Tariffs, End User Access Service charges do not apply. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 43 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 6 – END USER ACCESS SERVICE, (Cont’d.) 
+ 
+6.6 Rate Regulations, (Cont’d.) 
+ 
+(C) For Centrex Type Services main station lines or trunks, the End User Common Line (EUCL) Residence Subscriber Individual line or trunk rate as set forth in 5.1.7.(A) following applies to each line or trunk. Centrex Type Services are those that (1) use a portion of a Company switch located at the Company central office to meet the customer's internal needs and serves as the customer's interface with the local and interexchange networks and (2) link the customer's main stations to the Company switch with subscriber loops. When Centrex Type Services serve college, university or school offices (i.e., administrative stations) dormitory quarters (i.e., residential stations) or just dormitory quarters; the End User Access Service charges specified in this section for residential service will apply to each dormitory station line. Multiline Business EUCL charges as set forth in 5.1.7(C) following will apply to all administrative station lines. Charges shall be based on the number of dormitory lines or trunks and office lines or trunks reported to the Company by the customer. 
+ 
+(D) When an end user is provided more than one local business exchange service in a state by the Company and when a local business exchange service is provided as a multiparty service under the General Subscriber Service Tariffs, each party is deemed to be a user of an EUCL and the EUCL-Multiline Business Subscriber-Individual line or trunk rate, as set forth in 5.1.7(C) following applies to each such party. 
+ 
+(E) When a payphone service provider is provided a pay telephone line, the EUCL-Multiline Business subscriber-individual line or trunk rate as set forth in 6.7(C) will apply. 
+ 
+(F) When an end user is provided more than one local business exchange service in a state by the Company, other than that specified in (B) preceding and when the local business exchange service is provided under the General Subscriber Service Tariffs and is not covered by (C) and (D) preceding, the EUCL Multiline Business Subscribers-Individual line or trunk rate as set forth in 4.7 following applies to each such local business exchange service. 
+ 
+(G) When an end user is provided only a single local business exchange service by the Company, other than that specified in preceding and when the local business exchange service is provided as a multiparty service under the General Subscriber Service Tariffs, each party is deemed to be a user of an EUCL and the EUCL-Single Line Business Subscriber-Individual line or trunk rate as set forth in 5.1.7(B) following applies to each such party. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 44 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 6 – END USER ACCESS SERVICE, (Cont’d.) 
+ 
+6.6 Rate Regulations, (Cont’d.) 
+ 
+(H) When an end user is provided only a single local business exchange service by the Company, other than that specified in (B) preceding under the General Subscriber Service Tariffs, the EUCL-Single Line Business Subscriber-Individual line or trunk rate as set forth in 5.1.7(B) following applies to each single business service. 
+ 
+(I) When an end user is provided a local residence exchange service by the Company, other than that specified in (B) preceding and when the local residence exchange service is provided as a multiparty service under the General Subscriber Service Tariffs, each party is deemed to be a user of an EUCL and the EUCL-Residence Subscriber-Individual line or trunk rate as set forth in 6.7(A) following applies to each such party. 
+ 
+(J) When an end user is provided a local residence exchange service by the Company, other than that specified in (B) preceding and when the local residence exchange service is provided under the General Subscriber Service Tariffs and is not covered by (1) preceding, the EUCL-Residence Subscriber- Individual line or trunk rate as set forth in 5.1.7(A) following applies to each such local residence exchange service. 
+ 
+(K) When an end user is provided a local exchange service which is not identified as Centrex, Business Service or Residence Service (e.g., Farm Service, Local Service), the Company will designate the service as either Centrex Type Services, Business Service or Residence Service. The charges as set forth in 5.1.7 (A-C) following for Centrex Type Services, Business Subscriber or Residence Subscriber in accordance with the designation will apply. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 45 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 6 – END USER ACCESS SERVICE, (Cont’d.) 
+ 
+6.7 End User Subscriber Line Charges 
+ 
+Primary Residential Line  
+ $5.40 
+ 
+ 
+  
+ 
+Additional Residential Line  
+ $5.40 
+ 
+ 
+  
+ 
+Basic Rate ISDN, Residential  
+ Not offered 
+ 
+ 
+  
+ 
+Single Line Business  
+ $5.27 
+ 
+ 
+  
+ 
+Basic Rate ISDN, Single Line Business  
+ Not offered 
+ 
+ 
+  
+ 
+Multiline Business  
+ $5.27 
+ 
+ 
+  
+ 
+Basic Rate ISDN, Multiline Business  
+ Not offered 
+ 
+ 
+  
+ 
+Basic Rate ISDN, Business Centrex  
+ Not offered 
+ 
+ 
+  
+ 
+Primary Rate ISDN 
+ $26.35 
+ 
+
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 46 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 7 – LOCAL AND OEAS TRAFFIC EXCHANGE AND TERMINATION 
+ 
+7.1 General 
+ 
+This section establishes the methodology for the exchange and termination of local and OEAS traffic for carriers that do not have an interconnection agreement with the Company. 
+ 
+7.2 Ordering Conditions 
+ 
+The Customer may order switched access through a Constructive Order, as defined herein, or through an ASR. The format and terms of the ASR will be as specified in the Industry Access Service Order Guidelines, unless otherwise specified herein. 
+ 
+7.3  Local and OEAS Traffic Compensation 
+ 
+All local traffic will be exchanged under a Meet Point Billing Arrangement that utilizes Category 92 summary usage record exchange, unless and until either the Commission or FCC requires an alternative approach for the exchange of usage information for such traffic for use by all industry participants, pursuant to which the Company and the Terminating Carriers shall recover the costs of transporting and terminating such traffic on their networks from other parties in accordance with the then applicable regulations, including to the extent practicable, any Internet Service Provider access charge exemption. This provision does not apply to access traffic, transit traffic, or wireless traffic. 
+ 
+Bandwidth.com CLEC, LLC FCC Tariff No. 1 
+ Original Sheet 47 
+ 
+INTERSTATE SWITCHED ACCESS SERVICES TARIFF 
+ 
+SECTION 8 – CONTRACTS AND INDIVIDUAL CASE BASIS ARRANGEMENTS 
+ 
+8.1 Contracts 
+ 
+The Company may provide any of the services offered under this tariff or combinations of services, to Customers on a contractual basis. The terms and conditions of each contract offering are subject to the agreement of both the Customer and Company. Such contract offerings will be made available to similarly situated Customers in substantially similar circumstances. Rates in other sections of this tariff do not apply to Customers who agree to contract arrangements, with respect to services within the scope of the contract. 
+ 
+Services provided under contract are not eligible for any promotional offerings that maybe offered by the Company from time to time. 
+ 
+8.2 Individual Case Basis Arrangements 
+ 
+Arrangements will be developed on an individual case basis (ICB) in response to a bona fide special request from a Customer or prospective Customer to develop a competitive bid for a service. ICB rates will be offered to the Customer in writing and on a nondiscriminatory basis. 
+
